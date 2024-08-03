@@ -26,3 +26,5 @@ Main Function:
 
 main(): Runs the genetic algorithm, evolves the population over generations, adapts mutation rate if progress stagnates, and plots the best spiral and fitness progression.
 ![image](https://github.com/user-attachments/assets/4f1d6eac-805c-43b2-bc8f-376f2c3c0e4f)
+![image](https://github.com/user-attachments/assets/64dab54a-a3dd-4f54-bacd-62f00dba5ef4)
+
